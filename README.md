@@ -8,4 +8,4 @@
 [![codein](https://skillicons.dev/icons?i=kotlin,cpp,cs,mongodb)](https://skillicons.dev)
 
 
-# most of my projects are private repos or not on github but ill post some projects here
+# most of my projects are private and not on github but ill post some projects here
